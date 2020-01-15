@@ -1,5 +1,5 @@
 <template>
-  <img src="./logo.png">
+  <img src="https://vuejs.org/images/logo.png">
   <h1>Hello Vue 3!</h1>
   <button @click="inc">Clicked {{ count }} times.</button>
 </template>
